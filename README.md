@@ -1,2 +1,2 @@
 # CV_LB1
-The project for the first laboratory work
+Проект лабораторной работы №1 по дисциплине "Системы копьютерного зрения"
